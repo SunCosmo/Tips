@@ -1,0 +1,59 @@
+https://github.com/weui/weui
+https://github.com/facebook
+http://davidshimjs.github.io/qrcodejs/
+https://www.random.org/	获得可靠的随机数列
+http://validator.w3.org	验证你的网页是否符合规范
+http://akismet.com/	反垃圾信息接口
+http://coolshell.cn/
+http://www.alloyteam.com/#prettyPhoto
+http://doc.redisfans.com/
+http://blog.csdn.net/qiyuexuelang/article/details/9531891	如何设置mysql主键自增
+http://blog.nosqlfan.com/books
+http://blog.csdn.net/superbfly/article/details/17920383	 google_protobuf数据类型 
+https://sourcemaking.com/design-patterns-and-tips	101 Design Patterns & Tips for Developers
+http://wuchong.me/
+https://github.com/hzlzh/Best-App
+http://www.virscan.org/	在线扫描文件中的病毒
+http://zh-google-styleguide.readthedocs.org/en/latest/contents/	谷歌开源项目风格指南
+http://roclinux.cn/
+http://www.ituring.com.cn/
+http://www.oschina.net/translate/how-to-use-epoll-a-complete-example-in-c	如何使用 epoll? 一个 C 语言实例 
+http://www.techug.com/
+http://www.cnblogs.com/golove/p/3262925.html	golang strconv包介绍
+https://www.gnu.org/software/gdb/	gnu project debugger cgdb升级界面
+http://guides.rubyonrails.org/index.html
+http://www.tutorialspoint.com/mysql/mysql-in-clause.html	mysql
+http://www.tcpdump.org/	抓包工具
+http://www.blogjava.net/decode360/archive/2009/09/18/287743.html linux环境下定时任务的设置
+http://searchsoa.techtarget.com/definition/SOAP
+http://blog.csdn.net/hupanfeng/article/details/21454847 mybatis整合spring
+http://docs.spring.io/spring/docs/
+http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-iocannt/index.html	springMVC annotation guide
+http://www.cnblogs.com/dcba1112/archive/2011/05/01/2033805.html	maven guide
+http://www.cnblogs.com/lwm-1988/archive/2011/08/20/2147299.html linux程序前后台运行的切换
+http://blog.csdn.net/shanshu12/article/details/7109778
+http://www.cnblogs.com/Ninputer/archive/2011/06/08/2075714.html 正则表达式
+http://cizixs.com/
+http://www.jianshu.com/p/e062b3dd110c
+http://c.biancheng.net/cpp/biancheng/view/186.html
+http://blog.csdn.net/gukesdo/article/details/7514080 C++类初始化顺序
+http://www.cppblog.com/oosky/archive/2006/01/21/2958.html 堆和栈，堆栈的区别
+http://www.cnblogs.com/ronny/p/3717713.html c++ 输入输出流
+
+http://www.ipv6bbs.cn/thread-144-1-1.html ipv4 | ipv6
+http://www.ttlsa.com/nginx/nginx-tutorial-from-entry-to-the-master-ttlsa/
+https://github.com/jieniyimiao/CppPrimer C++Primer答案
+
+linux 更换字体==========================
+
+       在/usr/share/fonts/目录下，新建一个文件夹。比如，我安装consolas字体，就新建了一个名为consolas的文件夹。
+然后执行如下步骤：
+
+      sudo mkdir /usr/share/fonts/consolas
+      sudo cp 存放字体的目录/consolas.ttf  /usr/share/fonts/consolas
+      sudo chmod 644 /usr/share/fonts/consolas/*
+      cd /usr/share/fonts/consolas
+      sudo mkfontscale
+      sudo mkfontdir
+      sudo fc-cache -fv
+===================================
