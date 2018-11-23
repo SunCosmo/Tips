@@ -1,2 +1,2 @@
 # Tips
-Daily working tips and configure.
+Daily working tips and configurations.
